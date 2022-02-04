@@ -1,0 +1,1 @@
+Exercícios do Curso de Python do Gustavo Guanabara
